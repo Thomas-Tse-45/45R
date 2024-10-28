@@ -4,12 +4,10 @@
   "description": "A scraping API for products",
   "main": "index.js",
   "scripts": {
-    "start": "vercel dev"  // Optional, for local development using Vercel CLI
+    "start": "vercel dev"
   },
-    
-    "dependencies": {
-      "axios": "^1.7.7",
-      "puppeteer": "^22.13.1"
-    }
+  "dependencies": {
+    "axios": "^1.7.7",
+    "puppeteer": "^22.13.1"
   }
-  
+}
